@@ -34,6 +34,10 @@ a {
     color: #e6ccff;
 }
 
+img {
+    border-radius: 6px;
+}
+
 a:hover {
     color: #ff1ab3;
 }
