@@ -23,6 +23,18 @@ h2 {
     padding: 18px;
 }
 
+h3 {
+    color: #e6ccff;
+    font-size: 12px;
+    padding: 1px;
+}
+
+h4 {
+    color: yellow;
+    font-size: 8px;
+    padding: 0px;
+}
+
 p {
     color: #bf80ff;
     font-family: #f2e6ff;
