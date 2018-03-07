@@ -54,12 +54,28 @@ a:hover {
     color: #ff1ab3;
 }
 
+button {
+    border-radius: 8px;
+    float: left;
+    color: whitesmoke;
+    background-color: #ff1ab3;
+    text-align: center;
+    padding: 5px 25px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Bradley Hand;
+}
+
 /* CLASSES */
 .tegel{
     background-color: #1a0033;
     border-radius: 12px;
     padding: 20px
 }
+
+/* IDS */
+
+
 
 /* NAVIGATION */
 .topnav {
